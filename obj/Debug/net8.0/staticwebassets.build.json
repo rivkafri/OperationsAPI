@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "d5rNgeGzYplLtDTJ2n31z+vlcavMIksIh4/RvHOVvs0=",
+  "Source": "OperationsAPI",
+  "BasePath": "_content/OperationsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OperationsAPI\\wwwroot",
+      "Source": "OperationsAPI",
+      "ContentRoot": "C:\\Users\\1\\3D Objects\\OperationsAPI\\OperationsAPI\\wwwroot\\",
+      "BasePath": "_content/OperationsAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\1\\3D Objects\\OperationsAPI\\OperationsAPI\\wwwroot\\index.html",
+      "SourceId": "OperationsAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\3D Objects\\OperationsAPI\\OperationsAPI\\wwwroot\\",
+      "BasePath": "_content/OperationsAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8tzd8tg08b",
+      "Integrity": "jJIwJM0FtcERSMPaL1itbahjcoyivsCBgdHVGIu4wAg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\1\\3D Objects\\OperationsAPI\\OperationsAPI\\wwwroot\\script.js",
+      "SourceId": "OperationsAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\3D Objects\\OperationsAPI\\OperationsAPI\\wwwroot\\",
+      "BasePath": "_content/OperationsAPI",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q6io0558y0",
+      "Integrity": "EvblntigEX1+pHra4hEwFzgDEPK4ztILKzaSD4BcIoY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.8tzd8tg08b.html",
+      "AssetFile": "C:\\Users\\1\\3D Objects\\OperationsAPI\\OperationsAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jJIwJM0FtcERSMPaL1itbahjcoyivsCBgdHVGIu4wAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 20:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8tzd8tg08b"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jJIwJM0FtcERSMPaL1itbahjcoyivsCBgdHVGIu4wAg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\1\\3D Objects\\OperationsAPI\\OperationsAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jJIwJM0FtcERSMPaL1itbahjcoyivsCBgdHVGIu4wAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 20:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jJIwJM0FtcERSMPaL1itbahjcoyivsCBgdHVGIu4wAg="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\1\\3D Objects\\OperationsAPI\\OperationsAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvblntigEX1+pHra4hEwFzgDEPK4ztILKzaSD4BcIoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 20:23:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvblntigEX1+pHra4hEwFzgDEPK4ztILKzaSD4BcIoY="
+        }
+      ]
+    },
+    {
+      "Route": "script.q6io0558y0.js",
+      "AssetFile": "C:\\Users\\1\\3D Objects\\OperationsAPI\\OperationsAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvblntigEX1+pHra4hEwFzgDEPK4ztILKzaSD4BcIoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 20:23:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q6io0558y0"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvblntigEX1+pHra4hEwFzgDEPK4ztILKzaSD4BcIoY="
+        }
+      ]
+    }
+  ]
+}
